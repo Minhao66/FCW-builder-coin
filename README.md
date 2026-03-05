@@ -1,25 +1,18 @@
-# BuilderCoin (FCW)
+FCW Builder Coin —— 从“只会领水”到自己铸币的第 N 天
 
-我的第二个 ERC-20 代币，从零开始全新写的版本。
+名字 FCW = Future Chain World  
+这是我从零基础重新写的 ERC-20 代币，彻底抛弃之前混淆的旧版本，重新部署、重新测试。
 
-## 项目信息
-- 名称：BuilderCoin
+核心信息：
 - 符号：FCW
-- 精度：18
-- 初始供应：1,000,000 BDC
-- 合约地址：[填你的新地址]
-- Etherscan：[填链接]
+- 初始供应：1,000,000（已 mint 给自己）
+- 合约地址：0x44AeeeC1579CcC010969a8C7FcD30764A4c445c5 (Sepolia)
 - 功能：ERC-20 标准 + onlyOwner 的 mint & burn
-
-## 测试记录
-- burn 成功：销毁 10 BDC
-- mint 成功：额外铸造 50 BDC
-- 最终余额：[你的实际数字]
-
-## 学习收获
+- GitHub + 源码：https://github.com/Min
+- ## 测试记录
+- burn 成功：销毁 10 FCW
+- mint 成功：额外铸造 50 FCW​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+- ## 学习收获
 - 彻底掌握了部署新版本避免混淆的方法
 - 理解 _burn 和 _mint 的内部逻辑
 - 会用 Remix 的 At Address 加载已部署合约
-
-欢迎反馈！
-@Minhaonb66
