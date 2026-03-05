@@ -1,10 +1,10 @@
-# BuilderCoin (BDC)
+# BuilderCoin (FCW)
 
 我的第二个 ERC-20 代币，从零开始全新写的版本。
 
 ## 项目信息
 - 名称：BuilderCoin
-- 符号：BDC
+- 符号：FCW
 - 精度：18
 - 初始供应：1,000,000 BDC
 - 合约地址：[填你的新地址]
